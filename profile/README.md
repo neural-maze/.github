@@ -1,12 +1,21 @@
-## Hi there 👋
+## Welcome to The Neural Maze 👋
 
-<!--
+My idea with this GitHub organisation is to collect all the code related to:
 
-**Here are some ideas to get you started:**
+1. My YouTube channel (subscribe if you haven't already!!) 2.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+2. My blog 
+
+3. Interesting projects I come up with ...
+
+And, that would be all! Remember that you can follow me on these channels:
+
+Youtube: 
+Twitter: ...
+LinkedIn: ...
+
+If you have any questions or have an idea for a project that would be cool to implement, you can write to me at The Neural Maze email address! 
+
+
+Happy coding!
+
