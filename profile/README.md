@@ -12,7 +12,9 @@ My idea with this GitHub organisation is to collect all the code related to:
 And, that would be all! Remember that you can follow me on these channels:
 
 Youtube 👉 https://www.youtube.com/@TheNeuralMaze
+
 Twitter 👉 https://twitter.com/MTrofficus
+
 LinkedIn 👉 https://www.linkedin.com/in/moteropedrido/
 
 If you have any questions or have an idea for a project that would be cool to implement, you can write to me at The Neural Maze email address: theneuralmaze@gmail.com
