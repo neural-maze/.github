@@ -24,7 +24,7 @@ If you have any questions or have an idea for a project that would be cool to im
 
 Happy coding! 👨‍💻👩‍💻
 
-![alt text](sv.gif)
+![alt text](https://github.com/neural-maze/.github/blob/main/profile/sv.gif)
 
 
 
