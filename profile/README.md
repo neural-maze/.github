@@ -8,6 +8,7 @@ My idea with this GitHub organisation is to collect all the code related to:
 
 3️⃣ Random but interesting projects I come up with 😎
 
+---
 
 And, that would be all! Remember that you can follow me on these channels:
 
