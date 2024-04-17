@@ -2,20 +2,26 @@
 
 My idea with this GitHub organisation is to collect all the code related to:
 
-1. My YouTube channel (subscribe if you haven't already!!) 2.
+1️⃣ The YouTube Channel (subscribe if you haven't already!! 😤)
 
-2. My blog 
+2️⃣ The website (some of the articles may involve coding ... 😁)
 
-3. Interesting projects I come up with ...
+3️⃣ Random but interesting projects I come up with 😎
+
 
 And, that would be all! Remember that you can follow me on these channels:
 
-Youtube: 
-Twitter: ...
-LinkedIn: ...
+Youtube 👉 https://www.youtube.com/@TheNeuralMaze
+Twitter 👉 https://twitter.com/MTrofficus
+LinkedIn 👉 https://www.linkedin.com/in/moteropedrido/
 
-If you have any questions or have an idea for a project that would be cool to implement, you can write to me at The Neural Maze email address! 
+If you have any questions or have an idea for a project that would be cool to implement, you can write to me at The Neural Maze email address: theneuralmaze@gmail.com
 
 
-Happy coding!
+
+Happy coding! 👨‍💻👩‍💻
+
+![alt text](sv.gif)
+
+
 
