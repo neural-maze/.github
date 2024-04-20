@@ -2,9 +2,9 @@
 
 My idea with this GitHub organisation is to collect all the code related to:
 
-1️⃣ The YouTube Channel (subscribe if you haven't already!! 😤)
+1️⃣ The [YouTube Channel](https://www.youtube.com/channel/UCaixkLsW_TWWe_0yZNmvPaw) (subscribe if you haven't already!! 😤)
 
-2️⃣ The website (some of the articles may involve coding ... 😁)
+2️⃣ The [website](https://neural-maze.github.io/blog/) (some of the articles may involve coding ... 😁)
 
 3️⃣ Random but interesting projects I come up with 😎
 
